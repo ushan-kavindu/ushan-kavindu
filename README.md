@@ -56,7 +56,7 @@ I am a **BSc in Computer Science** graduate (Class of 2025) and an aspiring **So
 
 ### 🤝 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ushan LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ushan-kavindu-k/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ushan LinkedIn" height="30" width="40" /></a>
 <a href="mailto:ushan.k.kavindu@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Ushan Email" height="30" width="40" /></a>
 </p>
 
